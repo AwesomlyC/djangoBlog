@@ -21,6 +21,7 @@ Started: 02/09/2025
 # How to Run Applicaiton
 1. Be in root directory and in virtual environment
 2. Run **python manage.py runserver**
+3. Visit **localhost:8000** or **localhost:8000/admin**. 
 
 # Credit to djangogirls
-- [URL](https://tutorial.djangogirls.org/en/)
+- [Django Tutorial](https://tutorial.djangogirls.org/en/)
