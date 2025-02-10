@@ -6,6 +6,8 @@ Started: 02/09/2025
 - Python
 - Django
 - Sqlite3
+- HTML
+- CSS
 - Hosted on PythonAnywhere
 
 # Verify the necessary libraries are installed (Windows)
