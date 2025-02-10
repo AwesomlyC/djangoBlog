@@ -7,8 +7,9 @@ Started: 02/09/2025
 - Django
 - Sqlite3
 - HTML
-- CSS
+- CSS/BootStrap
 - Hosted on PythonAnywhere
+  - [Blog Webpage](https://awesomly.pythonanywhere.com)
 
 # Verify the necessary libraries are installed (Windows)
 1. Verify python is installed (3.10.11+)
@@ -24,6 +25,7 @@ Started: 02/09/2025
 1. Be in root directory and in virtual environment
 2. Run **python manage.py runserver**
 3. Visit **localhost:8000** or **localhost:8000/admin**. 
+4. Login via **http://localhost:8000/admin/** or **https://awesomly.pythonanywhere.com/admin/**
 
 # Credit to djangogirls
 - [Django Tutorial](https://tutorial.djangogirls.org/en/)
